@@ -7,10 +7,10 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ljubogdan-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=11131A)](https://www.linkedin.com/in/ljubogdan/)
-[![X](https://img.shields.io/badge/X-@ljubogdan-11131A?style=flat&logo=x&logoColor=white&labelColor=11131A)](https://x.com/ljubogdan)
-[![Ordoverse](https://img.shields.io/badge/building-ordoverse.com-7C9CFF?style=flat&labelColor=11131A)](https://ordoverse.com)
-![Novi Sad](https://img.shields.io/badge/based_in-Novi_Sad,_Serbia-C08CFF?style=flat&labelColor=11131A)
+<a href="https://www.linkedin.com/in/ljubogdan/"><img src="assets/badge-linkedin.svg" alt="LinkedIn: ljubogdan" height="28"></a>
+<a href="https://x.com/ljubogdan"><img src="assets/badge-x.svg" alt="X: @ljubogdan" height="28"></a>
+<a href="https://ordoverse.com"><img src="assets/badge-ordoverse.svg" alt="Building ordoverse.com" height="28"></a>
+<img src="assets/badge-location.svg" alt="Based in Novi Sad, Serbia" height="28">
 
 </div>
 
